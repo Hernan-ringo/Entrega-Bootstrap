@@ -81,12 +81,12 @@ ul {
     left: 2,5%;
 }
 
-.card {
+/* .card {
     background-color: lightgoldenrodyellow;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 60%);
-}
+} */
 
 .card__tittle {
     font-size: 20px;
@@ -257,7 +257,7 @@ footer {
     margin-left: 25px;
 }
 
-@media (max-widht: 550px) {
+/* @media (max-widht: 550px) {
     .courses__content {
         grid-template-columns: repeat 1fr;
         flex-wrap: wrap;
@@ -266,7 +266,7 @@ footer {
         display: none;
         flex-wrap: wrap;
     }
-}
+} */
 
 .animation {
     border-radius: 30px;
